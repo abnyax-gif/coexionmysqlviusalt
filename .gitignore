@@ -1,0 +1,25 @@
+# Archivos específicos del usuario
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación y resultados (lo que ves en verde en tu imagen)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+# Archivos temporales de Visual Studio
+.vs/
+*.sdf
+*.opensdf
+*.ipch
+
+# Archivos de depuración y base de datos de programas
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.lastbuildstate
